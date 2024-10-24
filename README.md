@@ -1,4 +1,4 @@
-## Hi, I'm Othniel 👋👨‍🦰
+# Hi, I'm Othniel 👋👨‍🦰
 
 - 👯 I’m looking to collaborate on django projects
 <!--
