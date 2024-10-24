@@ -1,8 +1,5 @@
-
-<h1 align="center">#Hi 👋, I'm Sunday Othniel</h1>
-<h3 align="center">A passionate backend developer from Nigeria that is addicted to learning about the latest tehnologies</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sundayothniel&label=Profile%20views&color=0e75b6&style=flat" alt="sundayothniel" /> </p>
+<h1 align="center">Hi 👋, I'm Sunday Othniel</h1>
+<h3 align="center">A passionate backend developer from Nigeria that is addicted to leaning about the latest tehnologies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundayothniel" alt="sundayothniel" /></a> </p>
 
@@ -19,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/othnielsunday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="othnielsunday" height="30" width="40" /></a>
+<a href="https://fb.com/sunday.othniel.2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sunday.othniel.2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
