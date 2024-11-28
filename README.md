@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/othnielsunday" target="blank"><img src="https://img.shields.io/twitter/follow/othnielsunday?logo=twitter&style=for-the-badge" alt="othnielsunday" /></a> </p>
 
-- 🌱 I’m currently learning **django rest framework and other backend tools**
+- 🌱 I’m currently working with **django rest framework and other backend tools**
 
 - 👯 I’m looking to collaborate on **django projects**
 
